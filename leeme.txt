@@ -1,0 +1,2 @@
+php artisan serve -> para arrancar el servidor
+npm run dev -> arranca el css con vite
